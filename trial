@@ -1,0 +1,9 @@
+
+Linux shell scripts
+(set of ins /commands)
+file
+
+#!/bin/bush
+touch flip text
+echo"hello">file.text
+cat file.text
